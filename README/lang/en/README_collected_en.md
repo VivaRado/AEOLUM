@@ -493,6 +493,7 @@ We can now create a **Quality Plan** by identifying the valid **Quality Targets*
 
 ---
 
+
 ### **Reference**
 
 **CSSUtils**: [cssutils on pypi.org](https://pypi.org/project/cssutils/)<br>
@@ -500,3 +501,4 @@ We can now create a **Quality Plan** by identifying the valid **Quality Targets*
 **NFT-POB**: [NFT Proof of Balance](https://github.com/VivaRado/NFT-Proof-of-Balance)<br>
 
 ---
+
