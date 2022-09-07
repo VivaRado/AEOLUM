@@ -332,7 +332,7 @@ Current Test:
 ### **Introduction / Phase Introduction / Planning Phase / Work Plan**
 
 
-SYFF **Work Plan** is created outlining the activities, tasks, dependencies, and timeframes.
+AEOLUM **Work Plan** is created outlining the activities, tasks, dependencies, and timeframes.
 
 *  Work Plan:
 	*  Tasks Assignments
@@ -345,7 +345,7 @@ SYFF **Work Plan** is created outlining the activities, tasks, dependencies, and
 
 *  **Docs Update**:
 	*  VivaRado, Andreas Kalpakidis (∞1):
-*  **SYFF**:
+*  **AEOLUM**:
 	*  VivaRado, Andreas Kalpakidis (∞1):
 
 ---
