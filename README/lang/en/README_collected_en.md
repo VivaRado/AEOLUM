@@ -78,7 +78,8 @@ AEOLUM is the first Variable Font built using experimental tools like SYFF (Synt
 *   Company: VivaRado LLP
 *   Designer: Andreas Kalpakidis
 *   Twitter: [@vivarado](https://twitter.com/VivaRado)
-*   Google Group:[VivaRado Typography Google Group](https://groups.google.com/a/vivarado.com/forum/#!forum/typography)
+*   OpenSea: [@vivarado](https://opensea.io/vivarado)
+
 
 
 ---
