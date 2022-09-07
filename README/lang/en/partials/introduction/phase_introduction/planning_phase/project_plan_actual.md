@@ -30,7 +30,7 @@ BUMP
 
 Planned:
 
-```python3 '/syff.py' -s '/font.designspace' -c '/font.syff' --output-path '/adventpro-VF.ufo'```
+```python3 '/syff.py' -s '/font.designspace' -c '/font.syff' --output-path '/AEOLUM-VF.ufo'```
 
 ---
 
