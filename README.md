@@ -4,9 +4,14 @@
 
 <div markdown='1' class="header_logo">
 
-![Screenshot](assets/media/aeolum_logo_variable_anim_repo_logo_001.gif)
+![Screenshot](README/assets/media/aeolum_logo_variable_anim_repo_logo_001.gif)
 
 </div>
+
+
+
+
+
 
 
 ##  **Introduction**
@@ -21,7 +26,11 @@ AEOLUM is the first Variable Font built using experimental tools like SYFF (Synt
 
 ---
 
-### **Introduction / Profile**
+### **Profile**
+<sub>Introduction / Profile</sub>
+
+<br>
+
 
 *   Company: VivaRado LLP
 *   Designer: Andreas Kalpakidis
@@ -32,7 +41,11 @@ AEOLUM is the first Variable Font built using experimental tools like SYFF (Synt
 ---
 
 
-### **Introduction / Project Overview**
+### **Project Overview**
+<sub>Introduction / Project Overview</sub>
+
+<br>
+
 
 *   Project Name: AEOLUM
 *   Code Name: AEO
@@ -44,7 +57,11 @@ AEOLUM is the first Variable Font built using experimental tools like SYFF (Synt
 ---
 
 
-### **Introduction / Phase Introduction**
+### **Phase Introduction**
+<sub>Introduction / Phase Introduction</sub>
+
+<br>
+
 
 For the sake of simplicity we will only present the following phases:
 
@@ -56,7 +73,11 @@ For the sake of simplicity we will only present the following phases:
 
 ---
 
-### **Introduction / Phase Introduction / Initiation Phase**
+### **Initiation Phase**
+<sub>Introduction / Phase Introduction / Initiation Phase</sub>
+
+<br>
+
 
 *  **Initiation Phase** Components ∞0.001:
 	
@@ -66,7 +87,11 @@ For the sake of simplicity we will only present the following phases:
 
 ---
 
-### **Introduction / Phase Introduction / Initiation Phase / Business Case**
+### **Business Case**
+<sub>Introduction / Phase Introduction / Initiation Phase / Business Case</sub>
+
+<br>
+
 
 
 #### We want to manage and fund and market the development of AEOLUM by using web3 technologies.
@@ -84,19 +109,27 @@ We see NFTs as both a funding and an access mechanism to our marketing material 
 
 ---
 
-### **Introduction / Phase Introduction / Initiation Phase / Business Case / Strategic case**
+### **Strategic case**
+<sub>Introduction / Phase Introduction / Initiation Phase / Business Case / Strategic case</sub>
+
+<br>
+
 
 The ability to have a set of simple looking instructions that reduce the repetitive nature of letters would increase the time spent on actually designing the look of the font and improve the time it takes to increase linguistic coverage and deploy the font. Most importantly you can still meddle with your font after the scripts are done doing what you told them.
 
 ---
 
-### **Introduction / Phase Introduction / Initiation Phase / Business Case / Financial Case**
+### **Financial Case**
+<sub>Introduction / Phase Introduction / Initiation Phase / Business Case / Financial Case</sub>
+
+<br>
+
 
 #### AEO Proof of Balance NFT
 
 <div markdown='1' class="nft_thumb">
 
-[![](assets/media/aeo_thumb.jpg)](https://create.zora.co/collections/0xfd7ca4289770fba797957e37be66912fadce5d56)
+[![](README/assets/media/aeo_thumb.jpg)](https://create.zora.co/collections/0xfd7ca4289770fba797957e37be66912fadce5d56)
 
 </div>
 
@@ -109,7 +142,7 @@ We are also accepting sponsorships here on github.
 
 <div markdown='1' class="sponsor_btn">
 
-[![](assets/media/sponsor.png)](https://github.com/sponsors/vivarado)
+[![](README/assets/media/sponsor.png)](https://github.com/sponsors/vivarado)
 
 </div>
 
@@ -118,7 +151,11 @@ We are also accepting sponsorships here on github.
 
 ---
 
-### **Introduction / Phase Introduction / Initiation Phase / Business Case / Management case**
+### **Management case**
+<sub>Introduction / Phase Introduction / Initiation Phase / Business Case / Management case</sub>
+
+<br>
+
 
 The management case tests the feasibility of the preferred option, in terms of its deliverability within various tolerances. 
 
@@ -131,7 +168,11 @@ We work around the product to achieve a smooth integration of all the parts, we 
 
 ---
 
-### **Introduction / Phase Introduction / Initiation Phase / Business Case / Management case / Achievements Plan**
+### **Achievements Plan**
+<sub>Introduction / Phase Introduction / Initiation Phase / Business Case / Management case / Achievements Plan</sub>
+
+<br>
+
 
 1.  **Milestones**
 	1.	Recombination Script
@@ -148,7 +189,11 @@ We work around the product to achieve a smooth integration of all the parts, we 
 
 ---
 
-### **Introduction / Phase Introduction / Initiation Phase / Project Charter**
+### **Project Charter**
+<sub>Introduction / Phase Introduction / Initiation Phase / Project Charter</sub>
+
+<br>
+
 
 
 *  **Project Charter** Components ∞0.001:
@@ -159,7 +204,11 @@ We work around the product to achieve a smooth integration of all the parts, we 
 
 ---
 
-### **Introduction / Phase Introduction / Initiation Phase / Project Charter / Project Introduction**
+### **Project Introduction**
+<sub>Introduction / Phase Introduction / Initiation Phase / Project Charter / Project Introduction</sub>
+
+<br>
+
 
 *  **Project Introduction** Components ∞0.001:
 
@@ -172,7 +221,11 @@ We work around the product to achieve a smooth integration of all the parts, we 
 
 ---
 
-### **Introduction / Phase Introduction / Initiation Phase / Project Charter / Project Introduction / Project Statements**
+### **Project Statements**
+<sub>Introduction / Phase Introduction / Initiation Phase / Project Charter / Project Introduction / Project Statements</sub>
+
+<br>
+
 
 ####  Vision Statement:
 	
@@ -187,7 +240,11 @@ Board the AEOLUM.
 ---
 
 
-### **Introduction / Phase Introduction / Initiation Phase / Project Charter / Project Goals**
+### **Project Goals**
+<sub>Introduction / Phase Introduction / Initiation Phase / Project Charter / Project Goals</sub>
+
+<br>
+
 
 *  Goals for ∞ 1.00:
 	*  Delivery of AEOLUM in 5 Weights
@@ -198,7 +255,11 @@ Board the AEOLUM.
 ---
 
 
-### **Introduction / Phase Introduction / Initiation Phase / Project Charter / Deliverables**
+### **Deliverables**
+<sub>Introduction / Phase Introduction / Initiation Phase / Project Charter / Deliverables</sub>
+
+<br>
+
 
 *  **Deliverables** Components ∞0.001:
 	*  AEOLUM Font Instances
@@ -206,7 +267,11 @@ Board the AEOLUM.
 	
 ---
 
-### **Introduction / Phase Introduction / Initiation Phase / Project Charter / Duration**
+### **Duration**
+<sub>Introduction / Phase Introduction / Initiation Phase / Project Charter / Duration</sub>
+
+<br>
+
 
 *  **Duration** of AEO ∞1.00:
 	*  Roughly 2022 to 2023.
@@ -215,7 +280,11 @@ Board the AEOLUM.
 ---
 
 
-### **Introduction / Phase Introduction / Planning Phase**
+### **Planning Phase**
+<sub>Introduction / Phase Introduction / Planning Phase</sub>
+
+<br>
+
 
 The Planning Phase, is where the project solution is further developed in as much detail as possible and the steps necessary to meet the project’s objectives.
 The project's **Work Plan / Project Plan** is created outlining the activities, tasks, dependencies, and timeframes.
@@ -233,7 +302,11 @@ The Planning Phase consists of:
 
 
 
-### **Introduction / Phase Introduction / Planning Phase / Project Plan**
+### **Project Plan**
+<sub>Introduction / Phase Introduction / Planning Phase / Project Plan</sub>
+
+<br>
+
 
 Decide on the encoding sets and supported language scripts. Decide and plan the weights and how you will generate each weight. Understand the procedures and steps. Calculate or keep track of timelines, steps procedures and pitfalls.
 
@@ -244,20 +317,32 @@ Decide on the encoding sets and supported language scripts. Decide and plan the 
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Project Plan / Design**
+### **Design**
+<sub>Introduction / Phase Introduction / Planning Phase / Project Plan / Design</sub>
+
+<br>
+
 
 BUMP
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Project Plan / Production**
+### **Production**
+<sub>Introduction / Phase Introduction / Planning Phase / Project Plan / Production</sub>
+
+<br>
+
 
 BUMP
 
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Project Plan / Usage**
+### **Usage**
+<sub>Introduction / Phase Introduction / Planning Phase / Project Plan / Usage</sub>
+
+<br>
+
 
 
 ####  **To apply the SYFF:**
@@ -276,7 +361,11 @@ Current Test:
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Work Plan**
+### **Work Plan**
+<sub>Introduction / Phase Introduction / Planning Phase / Work Plan</sub>
+
+<br>
+
 
 
 SYFF **Work Plan** is created outlining the activities, tasks, dependencies, and timeframes.
@@ -288,7 +377,11 @@ SYFF **Work Plan** is created outlining the activities, tasks, dependencies, and
 ---
 
 
-### **Introduction / Phase Introduction / Planning Phase / Work Plan / Task Assignments**
+### **Task Assignments**
+<sub>Introduction / Phase Introduction / Planning Phase / Work Plan / Task Assignments</sub>
+
+<br>
+
 
 *  **Docs Update**:
 	*  VivaRado, Andreas Kalpakidis (∞1):
@@ -297,13 +390,21 @@ SYFF **Work Plan** is created outlining the activities, tasks, dependencies, and
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Work Plan / Dependencies**
+### **Dependencies**
+<sub>Introduction / Phase Introduction / Planning Phase / Work Plan / Dependencies</sub>
+
+<br>
+
 
 BUMP
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Schedule Plan**
+### **Schedule Plan**
+<sub>Introduction / Phase Introduction / Planning Phase / Schedule Plan</sub>
+
+<br>
+
 
 Overview:
 
@@ -335,7 +436,11 @@ Task Codes:
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Schedule Plan / Timeline**
+### **Timeline**
+<sub>Introduction / Phase Introduction / Planning Phase / Schedule Plan / Timeline</sub>
+
+<br>
+
 
 
 -  **2022-09-07**: We have the initial form of SYFF and we can proceed to designing AEOLUM.
@@ -345,7 +450,11 @@ Task Codes:
 ---
 
 
-### **Introduction / Phase Introduction / Planning Phase / Stakeholders**
+### **Stakeholders**
+<sub>Introduction / Phase Introduction / Planning Phase / Stakeholders</sub>
+
+<br>
+
 
 We identify the **Stakeholders** by a **Personnel Plan** and create a **Communication Plan** to keep the **Stakeholders** informed.
 
@@ -367,7 +476,11 @@ We identify the **Stakeholders** by a **Personnel Plan** and create a **Communic
 ---
 
 
-### **Introduction / Phase Introduction / Planning Phase / Stakeholders / Personnel Plan**
+### **Personnel Plan**
+<sub>Introduction / Phase Introduction / Planning Phase / Stakeholders / Personnel Plan</sub>
+
+<br>
+
 
 *  Personnel Plan
 	*  Organizational Structure
@@ -381,7 +494,11 @@ We identify the **Stakeholders** by a **Personnel Plan** and create a **Communic
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Stakeholders / Communication Plan**
+### **Communication Plan**
+<sub>Introduction / Phase Introduction / Planning Phase / Stakeholders / Communication Plan</sub>
+
+<br>
+
 
 *  Communication Plan
 	*  Stakeholder Feedback Mechanisms
@@ -394,7 +511,11 @@ We identify the **Stakeholders** by a **Personnel Plan** and create a **Communic
 ---
 
 
-### **Introduction / Phase Introduction / Planning Phase / Quality Plan**
+### **Quality Plan**
+<sub>Introduction / Phase Introduction / Planning Phase / Quality Plan</sub>
+
+<br>
+
 
 A **Quality Plan** describes the activities, standards, tools and processes necessary to achieve quality in the delivery of a project.
 
@@ -408,7 +529,11 @@ We can now create a **Quality Plan** by identifying the valid **Quality Targets*
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Quality Plan / Quality Targets**
+### **Quality Targets**
+<sub>Introduction / Phase Introduction / Planning Phase / Quality Plan / Quality Targets</sub>
+
+<br>
+
 
 **Quality Targets** we want to achieve and what are their **Acceptance Criteria**, **Quality Management Procedures**, for each **Applicable Category**
 
@@ -418,7 +543,11 @@ We can now create a **Quality Plan** by identifying the valid **Quality Targets*
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Quality Plan / Quality Management**
+### **Quality Management**
+<sub>Introduction / Phase Introduction / Planning Phase / Quality Plan / Quality Management</sub>
+
+<br>
+
 
 **Quality Management**, the nature of the **Audits**, **Work Verification** by assigning responsible personnel for **Task Fulfillment** and **Task Checking**.
 
@@ -437,6 +566,8 @@ We can now create a **Quality Plan** by identifying the valid **Quality Targets*
 
 ### **Glossary**
 
+
+
 **SYFF**: SYFF (Synthetic Font Functions), IPA: [/saɪff/ >= /sɪff/].
 
 ---
@@ -444,9 +575,9 @@ We can now create a **Quality Plan** by identifying the valid **Quality Targets*
 
 ### **Reference**
 
+
+
 **CSSUtils**: [cssutils on pypi.org](https://pypi.org/project/cssutils/)<br>
 **SYFF**: [SYFF on github](https://github.com/VivaRado/SYFF)<br>
 **NFT-POB**: [NFT Proof of Balance](https://github.com/VivaRado/NFT-Proof-of-Balance)<br>
-
----
 
